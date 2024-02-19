@@ -1,0 +1,9 @@
+<View>
+   <Labels name="videoLabels" toName="video">
+     
+   <Label value="Diritto" background="blue"/><Label value="Rovescio" background="red"/></Labels>
+   
+   <!-- Please specify FPS carefully, it will be used for all project videos -->
+   <Video name="video" value="$video" framerate="30.0"/>
+   <VideoRectangle name="box" toName="video"/>
+</View>

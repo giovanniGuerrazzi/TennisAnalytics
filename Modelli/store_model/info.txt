@@ -1,0 +1,7 @@
+- 	RF_Cioni.joblib è un modello allenato da Cioni per la distinzione di colpi e 		rimbalzi in partite di tennis
+
+-	RF.joblib è il modello allenato da me per la distinzione di diritti e rovesci 			utilizzando TrackNet
+
+-	MLP.joblib è il modello allenato da me per la distinzione di diritti e rovesci 		utilizzando MoveNet
+
+tutti i modelli sono stati allenati e salvati con la versione scikit-learn 1.3.2
